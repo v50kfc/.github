@@ -3,6 +3,8 @@
 
 <https://v50kfc.github.io/website/>
 
+<img src="./img/v50.jpeg" width="60%">
+
 <!-- ## Hi there 👋 -->
 
 <!--
