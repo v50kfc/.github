@@ -1,6 +1,8 @@
 
 ## KFC Crazy Thursday needs $50 🤩 🤩 🤩
 
+<https://v50kfc.github.io/website/>
+
 <!-- ## Hi there 👋 -->
 
 <!--
