@@ -3,7 +3,7 @@
 
 <https://v50kfc.github.io/website/>
 
-<img src="./img/v50.jpeg" width="60%">
+<img src="https://pic2.zhimg.com/v2-c8282171760bff709e64262c1f223c83_r.jpg?source=1940ef5c" width="60%">
 
 <!-- ## Hi there 👋 -->
 
