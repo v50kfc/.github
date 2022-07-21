@@ -1,4 +1,7 @@
-## Hi there 👋
+
+## KFC Crazy Thursday needs $50 🤩 🤩 🤩
+
+<!-- ## Hi there 👋 -->
 
 <!--
 
